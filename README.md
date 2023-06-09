@@ -1,4 +1,6 @@
 # ESP32-Bitcoin
+挖矿算法
+
 Bitcoin mining algorithm implemented on the ESP32 ;)
 
 A small platformIO project to test the mining performance with a predefined hash count.
